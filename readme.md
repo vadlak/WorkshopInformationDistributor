@@ -14,7 +14,7 @@ pip install google-api-python-client oauth2client apiclient requests
 - sender_email: Set this to the sender's email address
 - deployment_id: The deployment id of your RightScale deployment
 
-![Screenshot](DeploymentId.png)
+![Screenshot](images/DeploymentId.png)
 
 - rightscale_refresh_token: Your RightScale API refresh token
     1. Navigate to Settings > API Credentials

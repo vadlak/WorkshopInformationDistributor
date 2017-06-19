@@ -6,7 +6,7 @@ pip install google-api-python-client oauth2client apiclient requests
 
 # 2. Download and set your google client secret
 
-- Follow the instructions at https://cloud.google.com/genomics/downloading-credentials-for-api-access
+- Follow the instructions at https://developers.google.com/gmail/api/quickstart/python#step_1_turn_on_the_api_name
 - Place the resulting client_secrets.json file in this project folder
 
 # 3. Set configuration values
